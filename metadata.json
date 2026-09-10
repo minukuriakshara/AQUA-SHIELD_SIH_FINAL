@@ -1,0 +1,6 @@
+{
+  "name": "LakeHealth — Water Body Health & Encroachment Monitor",
+  "description": "Real-time satellite-based lake monitoring, NDWI water analysis, temporal change detection, GIS cadastral mapping, and encroachment risk alerts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
